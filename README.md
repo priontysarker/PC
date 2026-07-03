@@ -1,1 +1,1 @@
-First web development repository for my coding projects.
+My first web project.
